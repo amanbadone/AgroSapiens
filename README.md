@@ -3,9 +3,11 @@ Market Analysis for Farmers(Somewhat on similar mechanism as of Stock Market pre
 
 This was Created as a part of a hackathon (National Agro Hackathon organised by LNCT and Horticulture Dept. of M.P. Gov.) 
 
-# DATA SET :  ICRISAT (http://data.icrisat.org/dld/src/visualization.html)<for pricing of crops> and FAOSTAT(https://www.fao.org/faostat/en/)<for macro economics indicator and some other stuff as well>
+# DATA SET 
+ICRISAT (http://data.icrisat.org/dld/src/visualization.html)<for pricing of crops> and FAOSTAT(https://www.fao.org/faostat/en/)<for macro economics indicator and some other stuff as well>
 
-# WORKING : so it is basically divide into three modules out of which 2 are uploaded here
+# WORKING 
+  so it is basically divide into three modules out of which 2 are uploaded here
 
 ## MODULE 1 : **Market Analysis** 
 Here i have imported required libraries that are used while implementing a machine learning model
