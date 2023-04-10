@@ -5,7 +5,6 @@ This was Created as a part of a hackathon (National Agro Hackathon organised by 
 
 # DATA SET :  ICRISAT (http://data.icrisat.org/dld/src/visualization.html)<for pricing of crops> and FAOSTAT(https://www.fao.org/faostat/en/)<for macro economics indicator and some other stuff as well>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # WORKING : so it is basically divide into three modules out of which 2 are uploaded here
 
 ## MODULE 1 : **Market Analysis** 
@@ -31,4 +30,3 @@ as we already had the training dataset and everything set up
 therefore all i did is passsed that data and got the score as  0.98424
 
 and thats it for the 1st module.
-======================================================================================================================================================================
